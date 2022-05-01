@@ -59,7 +59,7 @@ goto z
 
 :z
 Echo I==..I
-slmgr /skms jacquouille.zapto.org:1688
+slmgr /skms jacquouille.zapto.org
 Echo I===.I
 slmgr /ato
 Echo I====I
