@@ -14,7 +14,8 @@ Echo 8- Education N
 Echo 9- Entreprise
 Echo 10- Entreprise N
 set /p ans="[1-10]:"
-
+Echo.
+Echo I=...I
 if %ans%==1 (
 slmgr /ipk TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
 goto z
@@ -57,8 +58,13 @@ goto z
 )
 
 :z
+Echo I==..I
 slmgr /skms jacquouille.zapto.org
+Echo I===.I
 slmgr /ato
+Echo I====I
+Echo.
 Echo Made By Jacquouille la Fripouille#4530
+Echo.
 start https://github.com/Psyquoquack
 cmd /k
