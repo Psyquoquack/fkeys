@@ -59,12 +59,11 @@ goto z
 
 :z
 Echo I==..I
-slmgr /skms 91.167.185.69
+slmgr /skms kms.digiboy.ir
 Echo I===.I
 slmgr /ato
 Echo I====I
 Echo.
 Echo Made By Jacquouille la Fripouille#4530
 Echo.
-start https://github.com/Psyquoquack
 cmd /k
